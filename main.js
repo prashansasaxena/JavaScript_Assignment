@@ -38,7 +38,7 @@ function myReducer(array, callback){
 }
 
 
-/**Implementation of Reducer Function. */
+/**Implementation of forEach Function. */
 function  display(currentVal,index){
   console.log('The element at index '+index+' is: '+currentVal);
 }
